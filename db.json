@@ -1,0 +1,54 @@
+{
+  "projetos": [
+    {
+      "id": 1,
+      "nome": "Alura Tracker 3.0"
+    },
+    {
+      "id": 2,
+      "nome": "ByteBank 2.0"
+    },
+    {
+      "nome": "sdfasdfdsa",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nome": "TESTE"
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "duracaoEmSegundos": 120,
+      "descricao": "Configuração do ambiente - teste",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura Tracker 3.0"
+      }
+    },
+    {
+      "duracaoEmSegundos": 2,
+      "descricao": "Refatoração do vuex teste dfdasfas",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura Tracker 3.0"
+      },
+      "id": 2
+    },
+    {
+      "duracaoEmSegundos": 1,
+      "descricao": "Estudando padrões de projetos - OK",
+      "projeto": {
+        "nome": "ByteBank",
+        "id": 2
+      },
+      "id": 3
+    },
+    {
+      "duracaoEmSegundos": 1,
+      "descricao": "teste",
+      "id": 4
+    }
+  ]
+}
